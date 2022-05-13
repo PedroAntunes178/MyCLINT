@@ -4,7 +4,7 @@
    // CLINT
    //
 
-   myclint clint
+   iob_clint clint
      (
       //CPU interface
       .clk     (clk),

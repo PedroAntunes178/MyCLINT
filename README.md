@@ -1,5 +1,6 @@
 # MyCLINT
 RISC-V Core Local Interrupt Controller (CLINT) written in Verilog. The initial focus is for it to work as a IOb-SoC-VexRiscv peripheral.
+This repository was archived since we are now working in https://github.com/IObundle/iob-clint. Please go there for further development.
 
 ## Simulation
 To simulate the CLINT unit the user can use both "icarus verilog" and "verilator". Simply run:
